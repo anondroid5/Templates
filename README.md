@@ -13,7 +13,7 @@ http://mvnrepository.com/
 Fumihiko Akagi
 
 # Copyright
-    Copyright (C) 2015 Fumihiko Akagi
+    Copyright (C) 2013 Fumihiko Akagi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
